@@ -6,6 +6,12 @@ __pycache__/
 # C extensions
 *.so
 
+# Data Folder
+data/
+
+# Mac OS Annoying File
+.DS_Store
+
 # Distribution / packaging
 .Python
 build/
